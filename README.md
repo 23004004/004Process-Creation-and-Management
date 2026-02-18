@@ -1,1 +1,22 @@
-Agregar readme
+# Lab004 – Process Creation and Management  
+
+
+
+Creacion de procesos en windows
+
+## Tareas
+| Task | Description |
+|------|------------|
+| [Task 01](./Task01/) | Creating a New Process |
+| [Task 02](./Task02/) | Synchronizing Parent and Child Process |
+| [Task 03](./Task03/) | Inter-Process Communication Using Pipes |
+| [Task 04](./Task04/) | Creating Multiple Child Processes |
+| [Task 05](./Task05/) | Shared Memory (Advanced Task) |
+
+
+
+### Referencias:
+
+https://learn.microsoft.com/es-mx/windows/win32/api/_processthreadsapi/
+https://learn.microsoft.com/es-es/windows/win32/api/_base/
+https://learn.microsoft.com/es-es/windows/win32/fileio/file-systems
